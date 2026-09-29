@@ -1,11 +1,11 @@
 [en]
-# Version 1.0
+# Version 1.1
 - Added automatic background update checking.
 - New notification system for server population.
 - Fixed a bug with color picker flickering.
 
 [sk]
-# Verzia 1.0
+# Verzia 1.1
 - Pridaná automatická kontrola aktualizácií.
 - Nový systém upozornení na preplnenie servera.
 - Opravená chyba s blikaním palety farieb.

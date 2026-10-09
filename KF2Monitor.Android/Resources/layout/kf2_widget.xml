@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+         
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top">
+                 
+        <ImageView
+            android:id="@+id/widget_bg_image"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="fitXY"
+            android:visibility="gone" />
+
+        <LinearLayout
+            android:id="@+id/widget_background"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="@android:color/transparent"
+            android:padding="12dp">
+                         
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#FFFFFF"
+                android:textSize="13sp"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:layout_marginBottom="8dp"
+                android:text="KF2MOD-EU MONITOR" />
+                             
+            <LinearLayout
+                android:id="@+id/header_normal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center_vertical">
+                                 
+                <TextView
+                    android:id="@+id/text_last_update"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:textColor="#FFFFFF"
+                    android:textSize="12sp"
+                    android:text="Updated: --:--" />
+                                     
+                <ImageButton
+                    android:id="@+id/btn_settings"
+                    android:layout_width="32dp"
+                    android:layout_height="32dp"
+                    android:background="@android:color/transparent"
+                    android:src="@android:drawable/ic_menu_preferences"
+                    android:tint="#FFFFFF"
+                    android:scaleType="centerInside"
+                    android:layout_marginEnd="8dp" />
+                                     
+                <FrameLayout
+                    android:layout_width="32dp"
+                    android:layout_height="32dp">
+                                         
+                    <ImageButton
+                        android:id="@+id/btn_refresh"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="@android:color/transparent"
+                        android:src="@android:drawable/ic_popup_sync"
+                        android:tint="#FFFFFF"
+                        android:scaleType="centerInside" />
+                                             
+                    <ProgressBar
+                        android:id="@+id/progress_refresh"
+                        style="?android:attr/progressBarStyleSmall"
+                        android:layout_width="20dp"
+                        android:layout_height="20dp"
+                        android:layout_gravity="center"
+                        android:visibility="gone"
+                        android:indeterminateTint="#FFFFFF" />
+                </FrameLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/header_swapped"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center_vertical"
+                android:visibility="gone">
+                                     
+                <ImageButton
+                    android:id="@+id/btn_settings_swapped"
+                    android:layout_width="32dp"
+                    android:layout_height="32dp"
+                    android:background="@android:color/transparent"
+                    android:src="@android:drawable/ic_menu_preferences"
+                    android:tint="#FFFFFF"
+                    android:scaleType="centerInside"
+                    android:layout_marginEnd="8dp" />
+                                     
+                <FrameLayout
+                    android:layout_width="32dp"
+                    android:layout_height="32dp">
+                                         
+                    <ImageButton
+                        android:id="@+id/btn_refresh_swapped"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="@android:color/transparent"
+                        android:src="@android:drawable/ic_popup_sync"
+                        android:tint="#FFFFFF"
+                        android:scaleType="centerInside" />
+                                             
+                    <ProgressBar
+                        android:id="@+id/progress_refresh_swapped"
+                        style="?android:attr/progressBarStyleSmall"
+                        android:layout_width="20dp"
+                        android:layout_height="20dp"
+                        android:layout_gravity="center"
+                        android:visibility="gone"
+                        android:indeterminateTint="#FFFFFF" />
+                </FrameLayout>
+
+                <TextView
+                    android:id="@+id/text_last_update_swapped"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:textColor="#FFFFFF"
+                    android:textSize="12sp"
+                    android:gravity="end"
+                    android:layout_marginStart="8dp"
+                    android:text="Updated: --:--" />
+            </LinearLayout>
+
+            <ListView
+                android:id="@+id/list_servers"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="8dp"
+                android:divider="@android:color/transparent"
+                android:dividerHeight="8dp" />
+        </LinearLayout>
+    </FrameLayout>
+</FrameLayout>

@@ -1,9 +1,80 @@
 [en]
 [1.0.0]
 # Version 1.0.0
-- Initial release with basic features.
+- Initial release of KF2MOD-EU Monitor.
+- Real-time server status monitoring (players, waves, maps).
+- Highly customizable home screen widget (theme, background image, layout).
+- Notifications for tracked players and server population threshold.
+- Built-in app updater and cloud server synchronization.
+
+[et]
+[1.0.0]
+# Versioon 1.0.0
+- KF2MOD-EU Monitori esimene väljalase.
+- Serveri oleku reaalajas jälgimine (mängijad, lained, kaardid).
+- Kohandatav avakuva vidin (teema, taustapilt, paigutus).
+- Teavitused jälgitavate mängijate ja serveri täitumise kohta.
+- Sisseehitatud rakenduse uuendaja ja pilve sünkroonimine.
 
 [sk]
 [1.0.0]
 # Verzia 1.0.0
-- Prvé vydanie.
+- Prvé vydanie KF2MOD-EU Monitor.
+- Sledovanie stavu serverov v reálnom čase (hráči, vlny, mapy).
+- Prispôsobiteľná miniaplikácia na domovskej obrazovke (téma, obrázok na pozadí, rozloženie).
+- Upozornenia na sledovaných hráčov a preplnenie servera.
+- Vstavaný aktualizátor aplikácie a cloudová synchronizácia serverov.
+
+[lt]
+[1.0.0]
+# Versija 1.0.0
+- Pirmasis „KF2MOD-EU Monitor“ leidimas.
+- Realaus laiko serverio būsenos stebėjimas (žaidėjai, bangos, žemėlapiai).
+- Pritaikomas pagrindinio ekrano valdiklis (tema, fono paveikslėlis, išdėstymas).
+- Pranešimai apie stebimus žaidėjus ir serverio užpildymą.
+- Įmontuotas programos atnaujinimas ir debesies sinchronizavimas.
+
+[lv]
+[1.0.0]
+# Versija 1.0.0
+- Pirmais KF2MOD-EU Monitor izlaidums.
+- Reāllaika servera statusa uzraudzība (spēlētāji, viļņi, kartes).
+- Pielāgojams sākuma ekrāna logrīks (tēma, fona attēls, izkārtojums).
+- Paziņojumi par izsekotajiem spēlētājiem un servera piepildījumu.
+- Iebūvēts lietotnes atjauninātājs un mākoņa sinhronizācija.
+
+[fr]
+[1.0.0]
+# Version 1.0.0
+- Version initiale de KF2MOD-EU Monitor.
+- Surveillance en temps réel de l'état des serveurs (joueurs, vagues, cartes).
+- Widget d'écran d'accueil personnalisable (thème, image de fond, disposition).
+- Notifications pour les joueurs suivis et le remplissage des serveurs.
+- Mise à jour intégrée et synchronisation cloud des serveurs.
+
+[pl]
+[1.0.0]
+# Wersja 1.0.0
+- Pierwsze wydanie KF2MOD-EU Monitor.
+- Monitorowanie stanu serwerów w czasie rzeczywistym (gracze, fale, mapy).
+- Konfigurowalny widżet ekranu głównego (motyw, obraz w tle, układ).
+- Powiadomienia o śledzonych graczach i zapełnieniu serwera.
+- Wbudowany aktualizator aplikacji i synchronizacja z chmurą.
+
+[de]
+[1.0.0]
+# Version 1.0.0
+- Erste Veröffentlichung von KF2MOD-EU Monitor.
+- Echtzeit-Überwachung des Serverstatus (Spieler, Wellen, Karten).
+- Anpassbares Startbildschirm-Widget (Design, Hintergrundbild, Layout).
+- Benachrichtigungen für verfolgte Spieler und Serverpopulation.
+- Integrierter App-Updater und Cloud-Synchronisation.
+
+[ja]
+[1.0.0]
+# バージョン 1.0.0
+- KF2MOD-EU Monitor の初回リリース。
+- リアルタイムのサーバーステータス監視（プレイヤー、ウェーブ、マップ）。
+- カスタマイズ可能なホーム画面ウィジェット（テーマ、背景画像、レイアウト）。
+- 追跡プレイヤーとサーバーの混雑に関する通知。
+- アプリ内アップデーターとクラウドサーバー同期。

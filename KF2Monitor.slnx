@@ -1,0 +1,11 @@
+﻿<Solution>
+  <Project Path="KF2Monitor.Android/KF2Monitor.Android.csproj">
+    <Deploy />
+  </Project>
+  <Project Path="KF2Monitor.Browser/KF2Monitor.Browser.csproj" />
+  <Project Path="KF2Monitor.Desktop/KF2Monitor.Desktop.csproj" />
+  <Project Path="KF2Monitor.iOS/KF2Monitor.iOS.csproj">
+    <Deploy />
+  </Project>
+  <Project Path="KF2Monitor/KF2Monitor.csproj" />
+</Solution>

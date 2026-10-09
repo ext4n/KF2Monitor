@@ -9,7 +9,7 @@
 [![.NET](https://img.shields.io/badge/.NET-10.0-512BD4?style=for-the-badge&logo=dotnet)](https://dotnet.microsoft.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
-[Features](#-features) • [Installation](#-installation) • [Screenshots](#-screenshots) • [Contributing](#-contributing) • [Acknowledgments](#-acknowledgments)
+[Features](#-features) • [Installation](#-installation) •  [Contributing](#-contributing) • [Acknowledgments](#-acknowledgments)
 
 </div>
 

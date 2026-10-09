@@ -35,14 +35,6 @@ Beyond just displaying stats, it acts as a personal tracking assistant—notifyi
 *   🔄 **Built-in Auto-Updater:** Checks for updates daily and allows you to download and install new versions directly from within the app.
 *   🌍 **Multi-language Support:** Translated into 9 languages including English, German, French, Polish, Japanese, and more.
 
-## 📸 Screenshots
-
-*(Replace the placeholder URLs with actual screenshots of your app once uploaded to GitHub)*
-
-| Home Screen Widget | Visual Editor | App Settings |
-| :---: | :---: | :---: |
-| <img src="https://via.placeholder.com/250x500.png?text=Widget+On+Home+Screen" width="200"/> | <img src="https://via.placeholder.com/250x500.png?text=Widget+Editor+UI" width="200"/> | <img src="https://via.placeholder.com/250x500.png?text=App+Settings" width="200"/> |
-
 ## 🚀 Installation
 
 ### Option 1: Direct Download (Recommended)
@@ -86,7 +78,7 @@ Contributions are what make the open-source community such an amazing place to l
 This project was made possible through the immense support of many amazing people. 
 * A huge, heartfelt thank you to everyone involved in the development and growth! 
 * Special, boundless gratitude to the founders, admins, and managers of the MOD-EU project — **Edvis** and **Wyvern**. Your endless dedication and belief make this community truly alive and awesome!
-* Check out the official community at [EXTASY.ES](https://extasy.es).
+* Check out the official community at [MOD-EU DISCORD](https://discordapp.com/invite/Ps3jqRr).
 
 ## 📄 License
 
